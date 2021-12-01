@@ -46,3 +46,11 @@ Here are some ideas to get you started:
 <a href = 'http://www.snrazavi.ir/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/snrazavi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
+<br>
+<br>
+
+[![Naser's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snrazavi&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Naser's github stats](https://github-readme-stats.vercel.app/api?username=snrazavi&show_icons=true&theme=tokyonight) | ![Naser GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snrazavi&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snrazavi&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=snrazavi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
