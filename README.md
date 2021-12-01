@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on startup project at ADAPT Centre, TCD, Dublin
+- 🔭 I’m currently working on a research project at ADAPT Centre, TCD, Dublin
   
 - 🌱 I’m currently learning spaCy 3
   
@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: pass!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+- Programming Python
+- Machine learning and Deep learning
+- NLP and spaCy
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
