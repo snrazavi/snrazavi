@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=snrazavi.snrazavi)
 [![Github](https://img.shields.io/github/followers/snrazavi?label=Follow&style=social)](https://github.com/snrazavi)
+
+<div size='20px'> Hi! My name is Naser. Thanks for taking the time to view my GitHub Profile :smile: 
+</div>
+
