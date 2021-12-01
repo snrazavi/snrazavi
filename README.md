@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=snrazavi.snrazavi)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/snrazavi)
+[![Github](https://img.shields.io/github/followers/snrazavi?label=Follow&style=social)](https://github.com/snrazavi)
