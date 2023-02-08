@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a research project at ADAPT Centre, TCD, Dublin
   
-- 🌱 I’m currently learning spaCy 3
+- 🌱 I’m currently working as a ML engineer (building, training, testing and deploying models) 
   
 - 👯 I’m looking to collaborate on new Statup projects and ideas
   
