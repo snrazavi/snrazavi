@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 </div>
 
 <h2> About Me </h2>
+I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience in both academia and the industry, including working with and consulting for various start-ups. Over the years, I have tackled a wide variety of machine learning projects, from inception to deployment, demonstrating my adaptability and commitment to delivering high-quality solutions. My hands-on expertise in building and training numerous models is complemented by my proficiency in using cloud service providers like AWS to efficiently execute and scale projects. With a solid foundation in AI, ML, and deep learning, honed through plus 10 years of teaching at the university level, I am well-equipped to contribute significantly to any organization and drive innovation in the rapidly-evolving field of machine learning.
 
-- 🔭 I’m currently working on a research project at ADAPT Centre, TCD, Dublin
+- 🔭 I’m currently working on a few start-up ideas at ADAPT Centre, TCD, Dublin
   
 - 🌱 I’m currently working as a ML engineer (building, training, testing and deploying models) 
   
-- 👯 I’m looking to collaborate on new Statup projects and ideas
+- 👯 I’m looking to collaborate on new Start-up projects and ideas
   
 - 💬 Ask me about Python, programming, AI, ML and DL.
   
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 - Programming Python
 - Machine learning and Deep learning
 - NLP and spaCy
+- AWS Services
 
 
 <h2> Connect with me </h2>
