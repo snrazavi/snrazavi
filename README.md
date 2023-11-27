@@ -32,7 +32,7 @@ I am a results-driven machine learning specialist with a Ph.D. in Artificial Int
 - 💬 Wizard's hat off, I'm all ears for chit-chats about Python spells, programming puzzles, AI enigmas, ML mysteries, and DL dilemmas. Got questions? I've got answers (or at least, I'll Google them really fast 😉).
 - ⚡ Fun fact: I once tried to use a neural network to predict tomorrow's weather. Ended up with a model that's convinced it's always "raining cats and dogs"! 🐱🌧️🐶
 
-<h2> 🛠️ Magical Toolkit 🛠️ </h2>
+<h2> Magical Toolkit </h2>
 - 🐍 Python Programming: Conjuring scripts with a flick of my wand!
 - 🤖 ML & DL Mastery: Specializing in Machine Vision and NLP – teaching machines to see and speak!
 - ☁️ AWS Wizardry: Crafting cloud concoctions and digital elixirs.
