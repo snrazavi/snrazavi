@@ -19,12 +19,14 @@ I am a results-driven machine learning specialist with a Ph.D. in Artificial Int
 - ⚡ Fun fact: I once tried to use a neural network to predict tomorrow's weather. Ended up with a model that's convinced it's always "raining cats and dogs"! 🐱🌧️🐶
 
 <h2> Magical Toolkit </h2>
-* 🐍 Python Programming: Conjuring scripts with a flick of my wand!
-* 🤖 ML & DL Mastery: Specializing in Machine Vision and NLP – teaching machines to see and speak!
-* ☁️ AWS Wizardry: Crafting cloud concoctions and digital elixirs.
-* 🛠 Backend Alchemy: Python/Flask, PHP/Laravel – brewing potent server-side potions.
-* 🎨 Frontend Sorcery: React, JavaScript – weaving enchanting user interfaces.
-* ✨ AI Craftsman: Created several fully-fledged AI-powered applications and tools, from the ground up to the stars!
+<ul>
+    <li>🐍 Python Programming: Conjuring scripts with a flick of my wand!</li>
+    <li>🤖 ML & DL Mastery: Specializing in Machine Vision and NLP – teaching machines to see and speak!</li>
+    <li>☁️ AWS Wizardry: Crafting cloud concoctions and digital elixirs.</li>
+    <li>🛠 Backend Alchemy: Python/Flask, PHP/Laravel – brewing potent server-side potions.</li>
+    <li>🎨 Frontend Sorcery: React, JavaScript – weaving enchanting user interfaces.</li>
+    <li>✨ AI Craftsman: Created several fully-fledged AI-powered applications and tools, from the ground up to the stars!</li>
+</ul>
 
 **Ready to embark on a tech adventure? Reach out and let's make magic happen!** 🌟
 
