@@ -10,6 +10,7 @@
 <h2> About Me </h2>
 I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience spanning academia, industry, and start-up ecosystems. Over the years, I’ve taken a wide array of machine learning projects from inception to deployment—demonstrating adaptability, deep technical expertise, and a passion for solving real-world problems. My hands-on experience includes building, training, and optimizing ML models across domains, with production-level deployments leveraging cloud platforms like AWS and Azure.
 
+
 🧠 Currently, I’m a Senior AI Engineer at Siemens Healthineers, where I work on mission-critical AI solutions for medical diagnostics. My focus areas include Azure, Azure Databricks, Generative AI, and Large Language Models (LLMs)—pushing the boundaries of intelligent healthcare through scalable and innovative cloud-based ML systems.
 
 🎓 With over a decade of university-level teaching in AI and ML, I bring a strong foundation in deep learning and data-driven system design, and a talent for communicating complex concepts with clarity.
