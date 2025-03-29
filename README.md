@@ -8,27 +8,19 @@
 </div>
 
 <h2> About Me </h2>
-I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience in both academia and the industry, including working with and consulting for various start-ups. Over the years, I have tackled a wide variety of machine learning projects, from inception to deployment, demonstrating my adaptability and commitment to delivering high-quality solutions. My hands-on expertise in building and training numerous models is complemented by my proficiency in using cloud service providers like AWS to efficiently execute and scale projects. With a solid foundation in AI, ML, and deep learning, honed through plus 10 years of teaching at the university level, I am well-equipped to contribute significantly to any organization and drive innovation in the rapidly-evolving field of machine learning.
+I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience spanning academia, industry, and start-up ecosystems. Over the years, I’ve taken a wide array of machine learning projects from inception to deployment—demonstrating adaptability, deep technical expertise, and a passion for solving real-world problems. My hands-on experience includes building, training, and optimizing ML models across domains, with production-level deployments leveraging cloud platforms like AWS and Azure.
 
+🧠 Currently, I’m a Senior AI Engineer at Siemens Healthineers, where I work on mission-critical AI solutions for medical diagnostics. My focus areas include Azure, Azure Databricks, Generative AI, and Large Language Models (LLMs)—pushing the boundaries of intelligent healthcare through scalable and innovative cloud-based ML systems.
 
+🎓 With over a decade of university-level teaching in AI and ML, I bring a strong foundation in deep learning and data-driven system design, and a talent for communicating complex concepts with clarity.
 
-- 🚀 I'm the Chief Technology Wizard 🧙‍♂️ at MarginsAI, dabbling in the mystical arts of AI and startup alchemy at the ADAPT Centre, TCD, Dublin.
-- 🌱 By day, I'm a Machine Learning Engineer, conjuring up models that learn like humans (but without the need for coffee! ☕). From building and training to testing and deploying, I make sure these digital brains are top-notch!
-- 👯‍♂️ On the lookout for fellow adventurers! Eager to team up on new startup quests and innovative escapades. Have an idea? Let's make it the next big thing together!
-- 💬 Wizard's hat off, I'm all ears for chit-chats about Python spells, programming puzzles, AI enigmas, ML mysteries, and DL dilemmas. Got questions? I've got answers (or at least, I'll Google them really fast 😉).
-- ⚡ Fun fact: I once tried to use a neural network to predict tomorrow's weather. Ended up with a model that's convinced it's always "raining cats and dogs"! 🐱🌧️🐶
+🚀 I also moonlight as the Chief Technology Wizard 🧙‍♂️ at MarginsAI, combining AI with startup alchemy at the ADAPT Centre, TCD, Dublin.
 
-<h2> Magical Toolkit </h2>
-<ul>
-    <li>🐍 Python Programming: Conjuring scripts with a flick of my wand!</li>
-    <li>🤖 ML & DL Mastery: Specializing in Machine Vision and NLP – teaching machines to see and speak!</li>
-    <li>☁️ AWS Wizardry: Crafting cloud concoctions and digital elixirs.</li>
-    <li>🛠 Backend Alchemy: Python/Flask, PHP/Laravel – brewing potent server-side potions.</li>
-    <li>🎨 Frontend Sorcery: React, JavaScript – weaving enchanting user interfaces.</li>
-    <li>✨ AI Craftsman: Created several fully-fledged AI-powered applications and tools, from the ground up to the stars!</li>
-</ul>
+🌱 By day, I’m a Machine Learning Engineer, conjuring up models that learn like humans (but without needing coffee! ☕). From architecture design to deployment, I ensure these digital brains are sharp, reliable, and production-ready.
 
-**Ready to embark on a tech adventure? Reach out and let's make magic happen!** 🌟
+👯‍♂️ Always on the lookout for fellow adventurers! Keen to collaborate on daring startup quests and groundbreaking ideas. Got a spark? Let’s build something amazing together.
+
+*Ready to embark on a tech adventure? Reach out and let's make magic happen!** 🌟
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/seyed-naser-razavi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
