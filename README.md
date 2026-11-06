@@ -8,20 +8,17 @@
 </div>
 
 <h2> About Me </h2>
-I am a results-driven machine learning specialist with a Ph.D. in Artificial Intelligence and extensive experience spanning academia, industry, and start-up ecosystems. Over the years, I’ve taken a wide array of machine learning projects from inception to deployment—demonstrating adaptability, deep technical expertise, and a passion for solving real-world problems. My hands-on experience includes building, training, and optimizing ML models across domains, with production-level deployments leveraging cloud platforms like AWS and Azure.
+I'm a results-driven AI/ML leader with a Ph.D. in Artificial Intelligence and extensive experience across academia, industry, and start-up ecosystems. I've taken a wide range of machine learning projects from inception to deployment, building, training, and optimizing models across domains and shipping them to production on cloud platforms like AWS and Azure.
 
+🧠 **Currently**, I'm a **Lead AI/ML Engineer at Optum Ireland** (since March 2026), where I lead the design and delivery of AI solutions for healthcare at scale. From architecture design to deployment, I make sure these digital brains are sharp, reliable, and production-ready (and, unlike me, they don't need coffee ☕).
 
-🧠 Currently, I’m a Senior AI Engineer at Siemens Healthineers, where I work on mission-critical AI solutions for medical diagnostics. My focus areas include Azure, Azure Databricks, Generative AI, and Large Language Models (LLMs)—pushing the boundaries of intelligent healthcare through scalable and innovative cloud-based ML systems.
+🏥 **Previously**, I was a Senior AI Engineer at **Siemens Healthineers**, building mission-critical AI for medical diagnostics with Azure, Azure Databricks, Generative AI, and Large Language Models (LLMs).
 
-🎓 With over a decade of university-level teaching in AI and ML, I bring a strong foundation in deep learning and data-driven system design, and a talent for communicating complex concepts with clarity.
+🎓 With over a decade of university-level teaching in AI and ML, I bring a strong foundation in deep learning and data-driven system design, and a knack for explaining complex ideas clearly.
 
-🚀 I also moonlight as the Chief Technology Wizard 🧙‍♂️ at MarginsAI, combining AI with startup alchemy at the ADAPT Centre, TCD, Dublin.
+🚀 I also moonlight as **Chief Technology Wizard** 🧙‍♂️ at **MarginsAI**, mixing AI with startup alchemy at the ADAPT Centre, TCD, Dublin.
 
-🌱 By day, I’m a Machine Learning Engineer, conjuring up models that learn like humans (but without needing coffee! ☕). From architecture design to deployment, I ensure these digital brains are sharp, reliable, and production-ready.
-
-👯‍♂️ Always on the lookout for fellow adventurers! Keen to collaborate on daring startup quests and groundbreaking ideas. Got a spark? Let’s build something amazing together.
-
-*Ready to embark on a tech adventure? Reach out and let's make magic happen!** 🌟
+👯‍♂️ Always on the lookout for fellow adventurers! I'm keen to collaborate on daring startup quests and groundbreaking ideas. Got a spark? Let's build something amazing together. 🌟
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/seyed-naser-razavi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
