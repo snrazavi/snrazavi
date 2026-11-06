@@ -10,6 +10,7 @@
 <h2> About Me </h2>
 I'm a results-driven AI/ML leader with a Ph.D. in Artificial Intelligence and extensive experience across academia, industry, and start-up ecosystems. I've taken a wide range of machine learning projects from inception to deployment, building, training, and optimizing models across domains and shipping them to production on cloud platforms like AWS and Azure.
 
+
 🧠 **Currently**, I'm a **Lead AI/ML Engineer at Optum Ireland** (since March 2026), where I lead the design and delivery of AI solutions for healthcare at scale. From architecture design to deployment, I make sure these digital brains are sharp, reliable, and production-ready (and, unlike me, they don't need coffee ☕).
 
 🏥 **Previously**, I was a Senior AI Engineer at **Siemens Healthineers**, building mission-critical AI for medical diagnostics with Azure, Azure Databricks, Generative AI, and Large Language Models (LLMs).
